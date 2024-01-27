@@ -82,7 +82,7 @@ sections:
         - title: Senior Software Engineer
           company: Intuit
           company_url: 'https://www.intuit.com/in/'
-          company_logo: org-intuit
+          company_logo: org-ufl
           location: Bengaluru, India
           date_start: '2022-08-01'
           date_end: '2023-08-01'
