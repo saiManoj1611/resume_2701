@@ -36,7 +36,7 @@ education:
     - course: MS(Thesis) in Computer Science
       institution: University Of Florida
       year: 2024
-    - course: Bachelor of Technology in Computer Science 
+    - course: BS in Computer Science 
       institution: Indian Institute Of Technology (Indian School Of Mines)
       year: 2018
     
