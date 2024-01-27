@@ -61,6 +61,7 @@ skills:
         percent: 80
         icon: database
         icon_pack: fas
+        
   - name: " "
     color: '#eeac02'
     color_border: '#f0bf23'
