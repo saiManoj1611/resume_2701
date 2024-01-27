@@ -62,9 +62,9 @@ skills:
         icon: database
         icon_pack: fas
   
-  name: Technical
+  name: Technicals
     items:
-      - name: Python
+      - name: Pyhon
         description: ''
         percent: 80
         icon: python
