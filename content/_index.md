@@ -63,27 +63,49 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+       - title: Graduate Teaching Assistant
+          company: Columbia University
+          company_url: 'https://www.cs.columbia.edu/'
+          company_logo: org-ufl
+          location: New York, NY
+          date_start: '2023-09-01'
+          date_end: '2023-12-01'
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              <ul>
+                Course Assistant for <b><a href="https://donald-f-ferguson.github.io/E6156-Cloud-Computing-F23/">COMS 6156: Topics in Software Engineering - Cloud Computing</a></b> under Professor Donald Ferguson
+                <ul style="list-style-type: disc;">
+                  <li>Conducted weekly office hours and training sessions for students</li>
+                  <li>Graded assignments and projects, while also designing assignment rubrics for all tasks</li>
+                  <li>Guided and brainstormed with teams on their project ideas, breaking them into multiple sprints</li>
+                </ul>
+              </ul>
+        - title: Senior Software Engineer
+          company: Intuit
+          company_url: 'https://www.intuit.com/in/'
+          company_logo: org-intuit
+          location: Bengaluru, India
+          date_start: '2022-08-01'
+          date_end: '2023-08-01'
+          description: |2-
+              <ul>
+                <li><b>Its Deductible: </b>
+                  <ul>
+                    <li><b>DB Upgrade: </b> Worked on migration of IDO DB from Oracle 12c to 19c and also built a new disaster recovery strategy using AWS Read Replica</li>
+                    <li><b>Backend Revamp: </b> Worked on revamp of Its Deductible Backend Application on the latest stack using SpringBoot and Intuit Kubernetes Service</li>
+                    <li><b>Smart Data Extraction: </b> Developed a solution using OCR, PII Guardrails and Gen AI(Prompt Engineering) to extract donation details from receipts in strctured format and automatically create donation for users.</li>
+                  </ul>
+                </li>
+                <li><b>TurboTax: </b>
+                  <ul>
+                    <li><b>Tax Optimization Service - Spousal Support:</b> Worked on adding support for multiple tax payers in optimization problem for TurboTax Canada.</li>
+                    <li><b>Global Mobile Tax Platform:</b> Designed solution to decompose logging, analytics and crash monitoring for TurboTax</li>
+                    <li><b>TurboTax Mobile:</b> Integrated Firebase Crashlytics and Analytics in TTM application, resulting in early-detection and real time notification of crashes and user app behaviours.</li>
+                    <li><b>On-Device Classification:</b> Developed an on-device ML system that accurately classifies tax documents uploaded by users, minimizing the risk of erroneous submissions. The system is optimized through real-time user feedback, resulting in an enhanced user experience.</li>
+                    <li><b>TurboTax Orchestration Service:</b> Worked on localisation of content of topics in Tax Orchestration Service and built automated system which saved 50+ hrs during this process.</li>
+                  </ul>
+                </li>
+                <li><b>Transactions Monolith to Microservice:</b> Contributed to migration of data & building of new APIs with 99% parity</li>
+              </ul>
     design:
       columns: '2'
   # - block: accomplishments
