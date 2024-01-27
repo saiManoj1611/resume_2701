@@ -99,5 +99,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Sai Manoj Jalam is a distinguished Computer Science professional with an exemplary academic background from the University of Florida and the Indian Institute of Technology. Skilled in a diverse array of programming languages, Big Data technologies, and cloud services, Sai demonstrates a profound expertise in machine learning, data science, and software engineering. With significant experience in designing and developing robust solutions for real-time data processing and health analytics, Sai's portfolio showcases a commitment to leveraging advanced technologies to drive innovation and efficiency in the tech industry.
 {style="text-align: justify;"}
