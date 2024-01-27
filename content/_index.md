@@ -63,7 +63,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-       - title: Graduate Teaching Assistant
+        - title: Graduate Teaching Assistant
           company: Columbia University
           company_url: 'https://www.cs.columbia.edu/'
           company_logo: org-ufl
