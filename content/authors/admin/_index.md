@@ -58,26 +58,26 @@ skills:
         icon_pack: fas
       - name: SQL
         description: ''
-        percent: 40
+        percent: 80
         icon: database
         icon_pack: fas
-  - name: 
+  - name: " "
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
+      - name: AWS
         description: ''
         percent: 80
+        icon: person-hiking
+        icon_pack: fas
+      - name: Machine Learning
+        description: ''
+        percent: 80
+        icon: cat
+        icon_pack: fas
+      - name: Web Development
+        description: ''
+        percent: 60
         icon: camera-retro
         icon_pack: fas
   
