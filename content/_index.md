@@ -66,7 +66,7 @@ sections:
         - title: Graduate Teaching Assistant
           company: Columbia University
           company_url: 'https://www.cs.columbia.edu/'
-          company_logo: org-uf
+          company_logo: org-uf1
           location: New York, NY
           date_start: '2023-09-01'
           date_end: '2023-12-01'
