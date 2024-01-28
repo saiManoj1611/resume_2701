@@ -72,7 +72,7 @@ sections:
           date_end: '2024-05-01'
           description: |2-
               <ul>
-                Course Assistant for <b><a href="https://donald-f-ferguson.github.io/E6156-Cloud-Computing-F23/">COMS 6156: Topics in Software Engineering - Cloud Computing</a></b> under Professor Donald Ferguson
+                Designed and developed an integrated ROAMM platform using watchOS, React, and AWS to offer real-time health insights.
                 <ul style="list-style-type: disc;">
                   <li>Conducted weekly office hours and training sessions for students</li>
                   <li>Graded assignments and projects, while also designing assignment rubrics for all tasks</li>
