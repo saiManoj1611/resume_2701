@@ -101,7 +101,7 @@ sections:
                     <li>Engineered real-time distributed ETL data pipelines to optimize claim data processing, resulting in a 50% reduction in processing time. Technologies utilized include Hadoop, Hive, PySpark, Kafka, and Airflow.</li>
                     <li>Developed an efficient injection pipeline to transfer data from HDFS to Snowflake, which dramatically improved dashboard response times for claims KPI application from 45 seconds to approximately 15 seconds.</li>
 
-                  </ul>
+               
                 
     design:
       columns: '2'
