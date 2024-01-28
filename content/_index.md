@@ -83,7 +83,7 @@ sections:
                   <li>Deployed ML models on AWS platforms to predict potential health events (Fall detection, Activity Detection) based on real-time sensor data. </li>
                   
 
-                </ul>
+                
               </ul>
         - title: Associate Software Engineer
           company: United Health Group
