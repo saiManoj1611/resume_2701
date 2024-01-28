@@ -65,7 +65,7 @@ sections:
       items:
         - title: Software Engineer | Data Scientist
           company: University Of Florida
-          company_url: 'https://www.cs.columbia.edu/'
+          company_url: 'https://www.ufl.edu/'
           company_logo: org-uf1
           location: Gainesville, FL
           date_start: '2023-01-01'
@@ -81,7 +81,7 @@ sections:
               </ul>
         - title: Associate Software Engineer
           company: United Health Group
-          company_url: 'https://www.intuit.com/in/'
+          company_url: 'https://www.unitedhealthgroup.com/'
           company_logo: org-uf1
           location: Hyderabad, India
           date_start: '2021-07-01'
