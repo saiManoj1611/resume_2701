@@ -74,9 +74,15 @@ sections:
               <ul>
                 Designed and developed an integrated ROAMM platform using watchOS, React, and AWS to offer real-time health insights.
                 <ul style="list-style-type: disc;">
-                  <li>Conducted weekly office hours and training sessions for students</li>
-                  <li>Graded assignments and projects, while also designing assignment rubrics for all tasks</li>
-                  <li>Guided and brainstormed with teams on their project ideas, breaking them into multiple sprints</li>
+                  <li>Built a resilient serverless backend infrastructure on AWS using EC2,ELB,API gateway ,etc ensuring low latency and highly scalable performance for 15+ API’s and 10+ microservices in Python and NodeJS.</li>
+                  <li>Implemented secure APIs leveraging AWS Cognito for authentication and JWT for authorization, facilitating real-time communication with the smartwatch app.</li>
+                  <li>Designed and deployed Database for Optimized data storage and retrieval mechanisms using AWS RDS and DynamoDB.</li>
+                  <li>Established robust monitoring and alerting mechanisms using AWS tools(Cloundwatch ,SNS , etc) to achieve and maintain 99.9% uptime for the backend services on EC2.</li>
+                  <li>Built data pipeline to transfer data from databases(RDS,DynamaDB) to datalake (AWS redshift) and built data pipeline for complete ETL flow for realtime analytics </li>
+                  <li>Managed and processed vast datasets to analyze KPIs from data collected and stored using Pyspark,Numpy,Pandas,etc and prepared reports. </li>
+                  <li>Deployed ML models on AWS platforms to predict potential health events (Fall detection, Activity Detection) based on real-time sensor data. </li>
+                  
+
                 </ul>
               </ul>
         - title: Associate Software Engineer
