@@ -94,23 +94,16 @@ sections:
           date_end: '2022-08-01'
           description: |2-
               <ul>
-                <li><b>Its Deductible: </b>
+                <li>As a member of the Advanced Research and Analysis (ARA) team, I contributed to the following key projects:
                   <ul>
-                    <li><b>DB Upgrade: </b> Worked on migration of IDO DB from Oracle 12c to 19c and also built a new disaster recovery strategy using AWS Read Replica</li>
-                    <li><b>Backend Revamp: </b> Worked on revamp of Its Deductible Backend Application on the latest stack using SpringBoot and Intuit Kubernetes Service</li>
-                    <li><b>Smart Data Extraction: </b> Developed a solution using OCR, PII Guardrails and Gen AI(Prompt Engineering) to extract donation details from receipts in strctured format and automatically create donation for users.</li>
+                    <li>Designed and developed highly scalable claims KPI data pipelines, leveraging technologies such as RDBMS, Big Data, and Cloud, to streamline the collection, storage, modeling, and analysis of massive datasets from heterogeneous systems.</li>
+                    <li>Automated data import and export processes from MySQL to HDFS using Sqoop jobs, significantly reducing manual effort.</li>
+                    <li>Engineered real-time distributed ETL data pipelines to optimize claim data processing, resulting in a 50% reduction in processing time. Technologies utilized include Hadoop, Hive, PySpark, Kafka, and Airflow.</li>
+                    <li>Developed an efficient injection pipeline to transfer data from HDFS to Snowflake, which dramatically improved dashboard response times for claims KPI application from 45 seconds to approximately 15 seconds.</li>
+
                   </ul>
                 </li>
-                <li><b>TurboTax: </b>
-                  <ul>
-                    <li><b>Tax Optimization Service - Spousal Support:</b> Worked on adding support for multiple tax payers in optimization problem for TurboTax Canada.</li>
-                    <li><b>Global Mobile Tax Platform:</b> Designed solution to decompose logging, analytics and crash monitoring for TurboTax</li>
-                    <li><b>TurboTax Mobile:</b> Integrated Firebase Crashlytics and Analytics in TTM application, resulting in early-detection and real time notification of crashes and user app behaviours.</li>
-                    <li><b>On-Device Classification:</b> Developed an on-device ML system that accurately classifies tax documents uploaded by users, minimizing the risk of erroneous submissions. The system is optimized through real-time user feedback, resulting in an enhanced user experience.</li>
-                    <li><b>TurboTax Orchestration Service:</b> Worked on localisation of content of topics in Tax Orchestration Service and built automated system which saved 50+ hrs during this process.</li>
-                  </ul>
-                </li>
-                <li><b>Transactions Monolith to Microservice:</b> Contributed to migration of data & building of new APIs with 99% parity</li>
+                
               </ul>
     design:
       columns: '2'
