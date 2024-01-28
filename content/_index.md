@@ -63,13 +63,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Graduate Teaching Assistant
-          company: Columbia University
+        - title: Software Engineer | Data Scientist
+          company: University Of Florida
           company_url: 'https://www.cs.columbia.edu/'
           company_logo: org-uf1
-          location: New York, NY
-          date_start: '2023-09-01'
-          date_end: '2023-12-01'
+          location: Gainesville, FL
+          date_start: '2023-01-01'
+          date_end: '2024-05-01'
           description: |2-
               <ul>
                 Course Assistant for <b><a href="https://donald-f-ferguson.github.io/E6156-Cloud-Computing-F23/">COMS 6156: Topics in Software Engineering - Cloud Computing</a></b> under Professor Donald Ferguson
@@ -79,13 +79,13 @@ sections:
                   <li>Guided and brainstormed with teams on their project ideas, breaking them into multiple sprints</li>
                 </ul>
               </ul>
-        - title: Senior Software Engineer
-          company: Intuit
+        - title: Associate Software Engineer
+          company: United Health Group
           company_url: 'https://www.intuit.com/in/'
-          company_logo: org-ufl
-          location: Bengaluru, India
-          date_start: '2022-08-01'
-          date_end: '2023-08-01'
+          company_logo: org-uf1
+          location: Hyderabad, India
+          date_start: '2021-07-01'
+          date_end: '2022-08-01'
           description: |2-
               <ul>
                 <li><b>Its Deductible: </b>
