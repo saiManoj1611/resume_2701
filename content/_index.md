@@ -102,9 +102,7 @@ sections:
                     <li>Developed an efficient injection pipeline to transfer data from HDFS to Snowflake, which dramatically improved dashboard response times for claims KPI application from 45 seconds to approximately 15 seconds.</li>
 
                   </ul>
-                </li>
                 
-              </ul>
     design:
       columns: '2'
   # - block: accomplishments
